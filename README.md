@@ -7,7 +7,7 @@ El contrato ha sido verificado satisfactoriamente, permitiendo una transparencia
 
 Contract Address: 0x992E363AD104E6d6572faa58C923cC3A5b6A74b6
 
-Explorer Link: [](https://basescan.org/address/0x992e363ad104e6d6572faa58c923cc3a5b6a74b6#code)
+Explorer Link: [Link](https://basescan.org/address/0x992e363ad104e6d6572faa58c923cc3a5b6a74b6#code)
 
 🛠️ Detalles Técnicos: Estructura y Metadatos
 
